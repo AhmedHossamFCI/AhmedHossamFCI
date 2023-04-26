@@ -12,7 +12,7 @@
 
 - 🏢 I'm a Senior Software Engineer at Bnsights
 - 👨‍💻 As a software engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, Python, and Java, or anything related to software engineering.
+- 💬 Ask me about my experience with JavaScript, TypeScript, and .NET, or anything related to software engineering.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
